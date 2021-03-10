@@ -8,4 +8,4 @@ A graphical PowerShell utility that can trim or pad text files as well as conver
 -You can also convert the line endings (EOL) to Uinux if desired.
 
 
-If your new to powershell scripting, try running the utility with powershell ise that comes with windows.   
+If your new to powershell scripting, try running the utility with PowerShell ise that comes with windows.   
